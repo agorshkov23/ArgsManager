@@ -1,2 +1,2 @@
 # ArgsManager
-A simple way to parse command line arguments
+A simple way to parse command line arguments.
